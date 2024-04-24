@@ -1,0 +1,737 @@
+Player id,Club_Name,Plays in home country?
+336722,Tigres UANL,True
+368902,Newcastle United Jets FC,True
+362641,Charlton Athletic FC,False
+314197,FC Barcelona,False
+212306,Galatasaray SK,False
+229884,Atletico Madrid,True
+305372,US Citta di Palermo,False
+228599,Manchester United FC,False
+300409,Manchester City FC,False
+184615,FC Schalke 04,False
+271550,SSC Napoli,False
+227851,Club Santos Laguna,True
+354859,Sporting CP,False
+182206,SS Lazio,False
+217315,Manchester United FC,False
+286278,FSV Mainz 05,False
+270775,Liverpool FC,False
+233952,Fluminense FC,True
+312316,FSV Mainz 05,False
+356411,FC Basel,True
+338673,SC Heerenveen,False
+373224,Southampton FC,True
+379894,Malmo FF,False
+208353,Al Ain FC,False
+296994,GNK Dinamo Zagreb,False
+339508,San Jose Earthquakes,True
+213001,New York Red Bulls,False
+214384,Shakhtar Donetsk,False
+170667,Chelsea FC,False
+271414,Real Espana,True
+275096,Cerezo Osaka,True
+270301,Valencia CF,False
+201200,Real Madrid CF,False
+323623,New England Revolution,False
+229397,FC Barcelona,False
+235097,FC Rubin Kazan,False
+356399,1. FC Nuernberg,False
+196842,Manchester United FC,True
+228528,Manchester City FC,False
+309716,CA River Plate,False
+301059,AC Milan,True
+364763,Fenerbahce SK,False
+196789,Arsenal FC,False
+187203,SS Lazio,False
+367261,FC Porto,False
+207761,Watford FC,False
+306548,Chelsea FC,False
+275136,TSV 1860 Muenchen,False
+300411,VfB Stuttgart,False
+233500,AC Milan,False
+274034,Manchester United FC,True
+306532,Liverpool FC,True
+319470,FC Zuerich,True
+318601,FC Barcelona,True
+319311,Cruz Azul FC,True
+321722,FC Bayern Muenchen,True
+214135,Fenerbahce SK,False
+352394,Borussia Dortmund,True
+207851,Seattle Sounders FC,True
+353118,Swansea City AFC,False
+230517,Konyaspor,False
+183864,Chelsea FC,False
+216970,Lille OSC,False
+228627,FC Barcelona,False
+291393,FSV Mainz 05,False
+298681,FC Dynamo Kyiv,False
+229506,RCD Espanyol,False
+373400,CF Pachuca,False
+186455,Newcastle United FC,False
+218306,Chelsea FC,False
+358891,FC Zenit St. Petersburg,True
+306900,Cercle Brugge,False
+336435,Real Sociedad,False
+189259,Cerezo Osaka,False
+267834,Paris Saint-Germain FC,False
+268596,Manchester United FC,False
+214410,Besiktas JK,False
+305036,Arsenal FC,False
+186808,FC Zenit St. Petersburg,True
+217172,Atletico Mineiro,True
+358112,Everton FC,False
+216071,Guizhou Renhe FC,False
+196812,Fulham FC,False
+228715,Al Jazira SCC,False
+270144,Kuban Krasnodar,False
+349572,Club Tijuana,False
+312868,Chelsea FC,False
+349512,Sevilla FC,False
+366573,FC Internazionale,False
+184616,FC Bayern Muenchen,False
+313832,FC Porto,False
+330689,FC Augsburg,False
+238072,Sunderland AFC,False
+313874,CSD Colo-Colo,True
+297383,FC Krasnodar,True
+297103,Real Madrid CF,False
+297839,Hannover 96,False
+268149,Sangju Sangmu FC,True
+274090,Liverpool FC,False
+184291,CA Newells Old Boys,True
+185385,Chelsea FC,True
+307529,Olympiacos Piraeus FC,False
+177927,Parma FC,True
+319358,Valencia CF,False
+267811,Manchester United FC,False
+321653,FC Bayern Muenchen,False
+185641,Kuwait SC,False
+215002,Galatasaray SK,False
+375518,FC Bayern Muenchen,False
+318172,FC Zenit St. Petersburg,False
+183000,AC Milan,False
+318768,Fulham FC,False
+200176,Manchester City FC,False
+290186,AS Roma,False
+302539,CSKA Moscow,True
+309316,FC Bayern Muenchen,True
+307849,Bayer 04 Leverkusen,False
+367393,Valenciennes FC,False
+375459,Club Tijuana,False
+367347,AZ Alkmaar,False
+356403,Galatasaray SK,False
+275112,Yokohama F-Marinos,True
+319438,PSV Eindhoven,True
+359235,SSC Napoli,True
+379972,Parma FC,False
+369058,ACF Fiorentina,False
+217313,Fenerbahce SK,False
+358015,Arsenal FC,False
+358048,FC Dynamo Moscow,True
+196752,FC Bayern Muenchen,True
+358120,VfL Wolfsburg,False
+330659,Tractor Sazi Tabriz FC,True
+300235,FC Zenit St. Petersburg,True
+213953,LD Alajuelense,False
+356198,Arsenal FC,True
+236530,AIK Solna,False
+214876,PSV Eindhoven,False
+299878,Newcastle United FC,False
+234551,Villarreal CF,False
+237058,CSD Cartagines,True
+290452,CA Monarcas Morelia,False
+290903,Everton FC,False
+266800,Real Madrid CF,False
+362727,Tottenham Hotspur FC,False
+306954,FC Barcelona,True
+367388,Juventus FC,False
+359217,Paris Saint-Germain FC,False
+379886,NEC Nijmegen,False
+187258,VfL Wolfsburg,False
+248373,FC Bayern Muenchen,False
+198106,Manchester City FC,False
+254167,Manchester United FC,False
+214961,Liverpool FC,True
+269058,AS Monaco,False
+210704,Shakhtar Donetsk,False
+216435,FC Lokomotiv Moscow,True
+254166,FC Porto,True
+355997,Vitesse Arnheim,False
+178299,Al Gharafa SC,False
+297705,Arsenal FC,False
+356731,Club America,True
+215513,PAOK FC,True
+214228,Stoke City FC,False
+299198,AS Roma,False
+358024,Genoa CFC,False
+367913,FC Bayern Muenchen,False
+196897,FC Schalke 04,False
+371044,Club America,True
+353235,FC Sochaux-Montbliard,False
+208016,Manchester City FC,False
+316997,SL Benfica,False
+356407,Grasshopper Club,True
+178842,Independiente Santa Fe,False
+290902,Manchester United FC,False
+201787,Cagliari Calcio,False
+209119,AS Roma,True
+175524,AC Milan,False
+312672,Rosenborg BK,False
+316117,Hull City FC,False
+311558,Borussia Moenchengladbach,False
+217117,CA San Lorenzo de Almagro,False
+297106,Olympique Marseille,True
+267543,Juventus FC,False
+358108,Tottenham Hotspur FC,False
+274946,Udinese Calcio,False
+175498,Puebla FC,False
+200179,FC Barcelona,True
+296633,Sevilla FC,False
+212410,Al Hilal FC,False
+215623,ACF Fiorentina,True
+233531,Toronto FC,False
+233167,Gaziantepspor,False
+207906,Atletico Madrid,True
+298892,Celta Vigo,False
+354875,Club Africain,False
+372989,Eintracht Braunschweig,False
+321697,FSV Frankfurt,False
+367396,SV Zulte Waregem,False
+251352,Bayer 04 Leverkusen,False
+229392,Paris Saint-Germain FC,False
+207528,Real Madrid CF,True
+210214,Fenerbahce SK,False
+360728,Sporting Kansas City,True
+209979,Eintracht Frankfurt,False
+344714,CSKA Moscow,False
+273996,Chelsea FC,False
+218284,Real Madrid CF,False
+358736,Feyenoord Rotterdam,True
+305764,Chelsea FC,True
+210213,Fenerbahce SK,False
+375523,FC Bayern Muenchen,False
+178119,Club Leon,True
+183857,FC Barcelona,True
+297331,FC Basel,True
+349592,Santos FC,False
+296118,AS Nancy,False
+349517,Cagliari Calcio,False
+177876,Juventus FC,True
+353119,AS Saint-Etienne,False
+275162,FC Bayern Muenchen,True
+358049,FC Spartak Moscow,True
+305378,Botafogo FR,False
+202544,Manchester United FC,False
+184545,Al Hilal FC,False
+216567,Atletico Madrid,False
+268414,Bolton Wanderers FC,False
+289195,Club America,True
+321745,Ulsan Hyundai FC,True
+309714,ACF Fiorentina,False
+291389,Cardiff City FC,False
+274135,Liverpool FC,False
+295153,Naft Tehran FC,True
+268594,FC Tokyo,True
+369990,CD Real Sociedad,True
+336837,Valerenga IF,False
+297112,Celtic FC,False
+241559,Real Madrid CF,False
+228336,AS Roma,False
+229502,Sao Paulo FC,False
+359381,VfL Wolfsburg,False
+349574,Atlante FC,False
+198243,Toulouse FC,False
+290821,FC Zenit St. Petersburg,False
+237949,Esteghlal Tehran FC,True
+298582,Stade Rennais FC,False
+213170,UD Las Palmas,False
+358011,Newcastle United FC,False
+318150,SC Internacional,False
+290605,Melbourne Victory FC,True
+356669,Shakhtar Donetsk,False
+181406,AS Roma,False
+227839,CD Chivas USA,False
+304934,Wigan Athletic FC,False
+239433,West Bromwich Albion FC,False
+300407,TSG 1899 Hoffenheim,False
+298959,Chelsea FC,False
+230739,FC Internazionale,False
+209989,Valencia CF,False
+197514,Crystal Palace FC,False
+177855,FC Barcelona,True
+300402,Kayseri Erciyesspor,False
+290800,FC Sion,False
+365464,CD Motagua,True
+311554,Real Sociedad,False
+358692,FC Schalke 04,True
+184447,CF Pachuca,False
+180936,Kawasaki Frontale,True
+290825,Tottenham Hotspur FC,False
+196900,Real Madrid CF,False
+268406,Sunderland AFC,False
+294620,Olympique Marseille,False
+177768,Gamba Osaka,True
+218253,Tigres UANL,True
+209502,Wigan Athletic FC,False
+267527,Cardiff City FC,False
+296297,Real Espana,True
+183882,Udinese Calcio,False
+239424,FC Internazionale,False
+358114,SSC Napoli,False
+318034,SSC Napoli,False
+312432,Southampton FC,False
+323698,FC Lorient,False
+261029,SSC Napoli,False
+214887,PAOK FC,True
+190962,FC Barcelona,False
+271182,Aalesunds FK,False
+299960,Everton FC,True
+200847,Hertha BSC,False
+281252,Celta Vigo,False
+196605,Juventus FC,False
+216814,Real Madrid CF,True
+216874,FC Zenit St. Petersburg,False
+356162,Watford FC,False
+168832,Fulham FC,False
+199600,Stade Rennais FC,False
+178403,Norwich City FC,False
+297377,FC Dynamo Kyiv,False
+278072,Perspolis FC,True
+202655,Palmeiras,False
+290904,Tottenham Hotspur FC,False
+197411,Melbourne Victory FC,True
+213124,Esteghlal Tehran FC,True
+364707,Middlesbrough FC,False
+303394,Club Leon,True
+306424,FC Utrecht,False
+269784,Real Madrid CF,False
+234463,Chelsea FC,False
+358013,Paris Saint-Germain FC,True
+311150,Borussia Dortmund,True
+305972,Cruz Azul FC,False
+216004,Manchester City FC,False
+216973,FC Barcelona,True
+215208,Lekhwiya SC,False
+294619,Juventus FC,False
+200219,FC Internazionale,False
+3408,Atalanta Bergamo,False
+200935,Sevilla FC,False
+230114,CD Motagua,True
+215274,Juventus FC,True
+268821,Columbus Crew,False
+295157,Esteghlal Tehran FC,True
+349588,FC Twente,False
+330693,RSC Anderlecht,False
+310048,Antalyaspor AS,False
+268822,CS Herediano,True
+178963,Liverpool FC,False
+297373,FC Lokomotiv Moscow,False
+321641,Juventus FC,True
+210212,Valencia CF,False
+245156,Club Universidad de Chile,True
+299086,Bologna FC,False
+367918,VfL Wolfsburg,False
+233703,Manchester City FC,False
+209827,Stoke City FC,False
+275931,Real Madrid CF,False
+228936,AC Milan,True
+186787,CSKA Moscow,True
+200262,FC Girondins Bordeaux,False
+271253,Southampton FC,False
+251481,Umm Salal SC,False
+233530,FC Basel,False
+311148,FC Schalke 04,True
+375754,Guangzhou Evergrande FC,False
+315429,SS Lazio,False
+279417,FC Dynamo Moscow,False
+267647,AS Monaco,False
+196748,FC Bayern Muenchen,True
+207946,Trabzonspor,False
+286259,SS Lazio,False
+358022,Olympiacos Piraeus FC,True
+313805,Deportivo Saprissa,True
+233497,Jubilo Iwata,True
+311174,TSG 1899 Hoffenheim,False
+356409,SC Freiburg,False
+183893,Besiktas JK,False
+298664,Juventus FC,True
+290824,FC Porto,False
+229439,Nottingham Forest FC,False
+175689,Paris Saint-Germain FC,False
+300237,FC Spartak Moscow,True
+358014,Paris Saint-Germain FC,True
+299896,FC Dynamo Kyiv,False
+289964,Paris Saint-Germain FC,False
+291372,FC Internazionale,False
+228617,Juventus FC,False
+216715,Aston Villa FC,False
+305768,Everton FC,True
+229440,CSD Colo-Colo,True
+339551,CD Olimpia,True
+200201,FC Dynamo Kyiv,False
+216650,SC Freiburg,False
+216627,SSC Napoli,False
+312679,FC Augsburg,False
+207888,Arsenal FC,False
+216069,Bayer 04 Leverkusen,False
+239237,Valenciennes FC,False
+216006,RSC Anderlecht,True
+307026,Rosenborg BK,False
+347716,1. FC Nuernberg,False
+306634,Evian TG FC,False
+213878,San Jose Earthquakes,False
+229499,Atletico Madrid,False
+186793,CSKA Moscow,True
+339447,LD Alajuelense,True
+321971,Stoke City FC,False
+296273,FC Nantes,False
+183796,FC Kobenhavn,False
+296827,Academica Coimbra,False
+181930,CS Emelec,True
+288961,Sepahan FC,True
+181698,CA Monarcas Morelia,False
+278732,Galatasaray SK,False
+286481,SL Benfica,False
+356711,Warri Wolves FC,True
+200199,AS Monaco,False
+358099,SS Lazio,False
+213879,Hull City FC,False
+268474,FC Schalke 04,False
+216646,SSC Napoli,False
+290864,Atletico Madrid,False
+356459,Caykur Rizespor,False
+216642,US Sassuolo,False
+296303,Wigan Athletic FC,False
+175512,Real Salt Lake,True
+349578,CR Flamengo,False
+273291,Celtic FC,False
+289027,1. FC Nuernberg,False
+291329,Newcastle United FC,False
+216645,Hamburger SV,False
+229436,Atalanta Bergamo,False
+185359,Bologna FC,False
+237071,Houston Dynamo,False
+197409,Brisbane Roar FC,True
+207924,Manchester City FC,True
+238381,FC Platanias,False
+183798,New York Red Bulls,False
+182372,FC Barcelona,False
+216880,Arsenal FC,False
+228351,Kayserispor,False
+229443,SSC Napoli,False
+197464,Liverpool FC,True
+200213,West Ham United FC,False
+238112,RCD Espanyol,False
+267829,Juventus FC,False
+209940,FSV Mainz 05,False
+276131,Parma FC,False
+230117,Celtic FC,False
+216964,AC Milan,False
+198489,VfB Stuttgart,False
+184373,Gamba Osaka,True
+208120,Deportivo Saprissa,True
+209960,Club America,True
+176971,Trabzonspor,False
+94918,Deportivo Cali,True
+178185,CD Olimpia,True
+159304,Juventus FC,True
+179048,FC Rostov,False
+178420,Everton FC,False
+182021,SC Bastia,True
+184982,Real Salt Lake,True
+178958,KSC Lokeren,False
+179038,Toronto FC,False
+367333,FC Rubin Kazan,True
+358097,FK Borac Banja Luka,True
+195223,Borussia Dortmund,True
+209168,Adelaide United FC,True
+214377,Juventus FC,True
+176644,Real Madrid CF,True
+215484,Levante UD,False
+178630,Club Universidad de Chile,True
+298516,Sepahan FC,True
+356612,FC Internazionale,False
+213871,CD Olimpia,True
+195231,Cruz Azul FC,True
+212246,Manchester United FC,False
+215471,Hellas Verona FC,False
+274703,CA Boca Juniors,True
+214404,Sevilla FC,False
+181951,Houston Dynamo,True
+214874,LD Alajuelense,True
+207809,Paris Saint-Germain FC,False
+210702,Panathinaikos FC,False
+286238,CA Monarcas Morelia,False
+309426,Atletico Mineiro,True
+253999,West Bromwich Albion FC,True
+184320,Botafogo FR,True
+175546,Deportivo Toluca FC,True
+175413,SSC Napoli,False
+299066,Sporting Braga,True
+175629,CR Vasco da Gama,False
+216990,Konyaspor,False
+202650,Real Sociedad,False
+198117,Standard Liege,False
+189300,Lille OSC,False
+196620,BSC Young Boys,True
+254141,Arsenal FC,False
+275793,CS Emelec,True
+196633,VfL Wolfsburg,False
+306144,Calcio Catania,False
+349832,CF Monterrey,False
+184856,Hapoel Be'er Sheva FC,False
+299904,SC Freiburg,False
+254089,Swansea City AFC,False
+354873,AC Ajaccio,False
+216432,FC Dynamo Moscow,True
+306180,Queens Park Rangers FC,False
+329737,Zob Ahan Isfahan FC,True
+254091,FC Augsburg,False
+358893,FC Anzhi Makhachkala,True
+216438,FC Dynamo Moscow,True
+317072,Olympique Lyonnais,False
+321682,Getafe CF,False
+202280,Barcelona SC,True
+306206,Esteghlal Tehran FC,True
+214571,Lille OSC,True
+214407,Valencia CF,False
+276139,Aston Villa FC,False
+357990,Panathinaikos FC,False
+299887,AS Monaco,False
+198546,Suwon Bluewings FC,True
+297230,Qingdao Jonoon FC,False
+182479,Enugu Rangers FC,True
+305708,USM Alger,True
+378836,Parma FC,True
+182620,Jeonbuk Hyundai Motors FC,False
+229450,CS Emelec,True
+356166,CS Constantine,True
+298676,Beijing Guoan,False
+299064,SL Benfica,True
+376071,Orlando Pirates,False
+323339,AS Livorno,False
+367555,FC Basel,False
+276132,FC Porto,False
+182379,Manchester City FC,False
+228912,FC Bayern Muenchen,True
+229498,Galatasaray SK,False
+228328,Granada CF,False
+302630,Barcelona SC,True
+233333,Parma FC,True
+216820,SSC Napoli,False
+323326,CSKA Sofia,False
+215017,CSKA Moscow,True
+358012,Arsenal FC,False
+215285,AC Ajaccio,False
+214581,Urawa Red Diamonds,True
+301165,CS Herediano,True
+200259,Besiktas JK,False
+280487,Elche CF,False
+359997,HNK Hajduk Split,False
+199160,CS Herediano,True
+290822,Standard Liege,True
+278126,Kashiwa Reysol,False
+349582,CA Osasuna,False
+201001,CA Boca Juniors,True
+200133,SS Lazio,False
+268911,Sanfrecce Hiroshima,True
+200205,VfL Wolfsburg,False
+303419,LDU Quito,True
+266783,AS Monaco,False
+299956,Manchester City FC,True
+360111,PAOK FC,True
+298655,Paris Saint-Germain FC,False
+271043,Chelsea FC,False
+359448,AS Saint-Etienne,True
+297105,Tottenham Hotspur FC,False
+200209,AC Milan,False
+200130,SL Benfica,False
+291332,Caykur Rizespor,False
+298613,SSC Napoli,False
+369983,FC Dynamo Moscow,True
+358046,FC Dynamo Moscow,True
+199175,Levante UD,False
+367433,Sporting Kansas City,True
+329745,Perspolis FC,True
+363578,Ulsan Hyundai FC,True
+267344,Perspolis FC,True
+298662,SS Lazio,True
+296312,Real Espana,True
+321731,Olympiacos Piraeus FC,True
+359375,Getafe CF,False
+379889,Vancouver Whitecaps FC,False
+240718,Eintracht Frankfurt,False
+268411,FSV Mainz 05,False
+294626,Esperance Sportive de Tunis,False
+362881,Celtic FC,False
+230121,Stoke City FC,False
+346763,Sporting Covilha,False
+298738,Liverpool FC,False
+379888,Eintracht Braunschweig,False
+232760,Newcastle United FC,False
+353237,Stromsgodset IF,False
+359436,Sporting Braga,True
+269768,Sporting CP,True
+349631,FC Internazionale,False
+354883,RCD Mallorca,False
+299090,Borussia Dortmund,False
+359428,FC Zenit St. Petersburg,False
+360109,Bologna FC,False
+319298,PAOK FC,True
+200261,FC Barcelona,False
+228624,CD Universidad Catolica,True
+370062,Brisbane Roar FC,True
+349576,Barcelona SC,True
+361222,Southampton FC,True
+228942,Torino FC,True
+298677,Swansea City AFC,False
+355023,Granada CF,False
+379264,Club Leon,True
+234405,Los Angeles Galaxy,True
+299442,FC Bayern Muenchen,True
+359993,FC Zorya Lugansk,False
+379985,FC Terek Grozny,True
+356933,Borussia Dortmund,False
+353379,Perspolis FC,True
+362649,Olympiacos Piraeus FC,True
+270714,FC Bayern Muenchen,False
+367558,Sewe Sport,True
+303034,FC Barcelona,True
+229051,Western Sydney Wanderers FC,True
+349568,CD El Nacional,True
+367920,Atletico Madrid,True
+321734,FC Tokyo,True
+302381,Hannover 96,True
+358738,AFC Ajax,True
+358694,Borussia Dortmund,True
+312987,Club Brugge KV,False
+228686,OGC Nice,False
+319460,FC Basel,True
+295149,FK Austria Wien,False
+291398,Guangzhou R&F FC,False
+332293,FC Basel,False
+228691,Atletico Nacional,True
+358881,FC Dynamo Moscow,True
+350129,Deportivo Toluca FC,True
+312234,FC Luzern,False
+356748,Manchester United FC,True
+318688,Sporting CP,False
+311850,Kuban Krasnodar,False
+319436,Norwich City FC,False
+317056,Newcastle United FC,False
+356189,Liverpool FC,True
+319428,Feyenoord Rotterdam,True
+367343,FC Zenit St. Petersburg,True
+359995,Elazigspor,False
+365556,1. FC Nuernberg,False
+306410,Shandong Luneng Taishan FC,False
+290931,Olympique Marseille,False
+350003,Hannover 96,False
+306780,Torino FC,True
+374529,SK Sturm Graz,False
+274329,Kashiwa Reysol,False
+274283,Queens Park Rangers FC,False
+356518,Sanfrecce Hiroshima,False
+288824,Torino FC,True
+329092,FC Porto,False
+319432,AFC Ajax,True
+370438,Fethiyespor,False
+270948,Chelsea FC,False
+323574,Aduana Stars,True
+365747,Istanbul BBSK,False
+366309,Granada CF,False
+350124,Villarreal CF,False
+305382,Club Nacional de Football,True
+319413,Torino FC,False
+380069,Borussia Moenchengladbach,True
+319340,FC Porto,False
+274281,Ulsan Hyundai FC,True
+368009,Sunshine Stars FC,True
+336434,Olympique Lyonnais,True
+323556,Olympiacos Piraeus FC,True
+370523,Fortuna Duesseldorf,False
+375453,SL Benfica,True
+356710,KV Waasland-Beveren,False
+364088,SSC Napoli,False
+356712,FC Ashdod,False
+312116,Southampton FC,False
+358869,CSKA Moscow,True
+379942,Leicester City FC,False
+321736,VfB Stuttgart,False
+379974,Columbus Crew,False
+356466,Cerezo Osaka,True
+371042,Deportivo Toluca FC,True
+269071,Standard Liege,False
+336869,Vitesse Arnheim,False
+270400,CD Olimpia,True
+358106,Atletico Madrid,False
+320375,FC Schalke 04,False
+313021,Feyenoord Rotterdam,True
+379808,HNK Hajduk Split,False
+376349,Sporting CP,True
+358009,Manchester United FC,True
+376285,Stade de Reims,False
+358885,FK Amkar Perm,True
+336485,Genoa CFC,False
+379952,Borussia Dortmund,True
+313051,AFC Ajax,True
+339117,Club Brugge KV,False
+379164,Fortuna Duesseldorf,False
+306364,SC Heracles Almelo,False
+346731,Foolad Khuzestan FC,True
+307541,Deportivo Saprissa,True
+355859,Coton Sport FC,True
+313410,Atletico Madrid,True
+330565,Arsenal FC,True
+315614,PSV Eindhoven,False
+358732,Feyenoord Rotterdam,True
+380004,Stabaek IF,False
+373555,Hertha BSC,False
+359440,Real Madrid CF,False
+308082,FC Porto,False
+369546,CA River Plate,False
+313559,VfL Wolfsburg,False
+376360,AS Saint-Etienne,False
+367557,Toulouse FC,False
+359223,AC Milan,True
+358101,Ferencvarosi TC,False
+370522,Toulouse FC,False
+339116,Swindon Town FC,False
+380060,Coton Sport FC,True
+368708,Sporting Braga,True
+315436,UD Almeria,False
+356704,FC Porto,False
+312014,FC Volyn Lutsk,False
+336791,RC Lens,False
+370469,Mamelodi Sundowns FC,False
+362645,Panathinaikos FC,True
+379736,SC Freiburg,True
+369392,Everton FC,True
+315424,Middlesbrough FC,False
+376230,FC Schalke 04,False
+336085,Feyenoord Rotterdam,True
+339987,FC Internazionale,False
+368860,Paris Saint-Germain FC,True
+336098,PSV Eindhoven,True
+368973,Seattle Sounders FC,True
+379939,Tottenham Hotspur FC,False
+379911,Lille OSC,False
+368655,Atletico Madrid,False
+369094,FC Bayern Muenchen,False
+332827,VfB Stuttgart,False
+336043,Liverpool FC,True
+336450,Southampton FC,True
+319482,Club Libertad,False
+367415,VfR Aalen,False
+380663,SV Zulte Waregem,True
+306818,Busan IPark FC,True
+360642,Independiente Santa Fe,True
+269859,Manchester United FC,False
+356676,Grasshopper Club,True
+369026,NK Lokomotiva Zagreb,True
+309420,Genoa CFC,True
+379165,Preston North End FC,False
+369050,HNK Rijeka,True
+380000,GNK Dinamo Zagreb,True
+380009,Real Espana,True
+379910,Manchester United FC,False
